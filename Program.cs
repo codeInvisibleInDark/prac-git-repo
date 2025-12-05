@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-Console.WriteLine("git repository created");
-Console.WriteLine("back to ground zero");
-Console.WriteLine("push");
+Console.WriteLine("new branch");
+Console.WriteLine("first pull");
+Console.WriteLine("first push");
+Console.WriteLine("second pull");
