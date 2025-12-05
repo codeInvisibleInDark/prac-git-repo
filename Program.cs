@@ -4,4 +4,4 @@ using System;
 Console.WriteLine("new branch");
 Console.WriteLine("first pull");
 Console.WriteLine("first push");
-
+Console.WriteLine("second pull");
